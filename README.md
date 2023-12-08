@@ -3,9 +3,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://t.me/fanem" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg"  height="40" width="40" /></a>  
-  <a href="https://linkedin.com/in/artem-novikov-1a1459208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="artem-novikov-1a1459208" height="30" width="40" /></a>  
-  <a href="mailto:nai90@yandex.ru" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mailto:nai90@yandex.ru" height="40" width="40" /></a>
+  <a href="https://t.me/fanem" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg"  height="40" width="40" /></a>  
+  <a href="https://linkedin.com/in/artem-novikov-1a1459208" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="artem-novikov-1a1459208" height="30" width="40" /></a>  
+  <a href="mailto:nai90@yandex.ru" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mailto:nai90@yandex.ru" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
